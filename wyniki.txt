@@ -1,0 +1,2 @@
+Plik: good_4000.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 12:48:40.722624, Wynik: Rytm serca: Regularny
+Plik: good_4000.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 12:48:47.191385, Wynik: Odchylenie standardowe: 0.2092

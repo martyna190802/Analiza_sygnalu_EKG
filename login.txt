@@ -1,0 +1,3 @@
+Marek;Kowalski;marek;123;Lekarz
+Ilona;Nowak;i;12;Administrator
+Andrzej;Morda;hb;12;Lekarz
